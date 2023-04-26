@@ -2,7 +2,7 @@
 
 The [Chain Puzzle](https://www.devinmontes.com/store/the-chain-puzzle) is a puzzle designed by [Devin Montes](https://www.devinmontes.com/) and can be purchased at his store or can be 3D printed using the models on [MyMiniFactory](https://www.myminifactory.com/object/3d-print-the-chain-puzzle-razor-118798). This simulator was developed independently by UlikGames. [Click here to try the demo!](https://ulikgames.github.io/chain-puzzle)
 
-[![Chain Puzzle Simulator Screenshot](https://raw.githubusercontent.com/ulikgames/chain-puzzle/master/public/screenshot.png)](https://ulikgames.github.io/chain-puzzle)
+[![Chain Puzzle Screenshot](https://raw.githubusercontent.com/UlikGames/chain-puzzle/main/public/screenshot.png?token=GHSAT0AAAAAACAIBXZW2ON7F4HV74547NCIZCJWISQ)](https://ulikgames.github.io/chain-puzzle)
 
 ## What is this?
 
